@@ -2,8 +2,9 @@
 //  ContentView.swift
 //  ShyQR
 //
-//  Created by Nico Rückner on 20.03.22.
-//  
+// Created by bitweiser on 20.03.22.
+//  GitHub: https://github.com/b1twe1ser
+//  Instagram: https://www.instagram.com/bitweiser/
 
 import SwiftUI
 
